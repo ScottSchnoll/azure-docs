@@ -49,7 +49,7 @@ The three server-side encryption models offer different key management character
 
 - **Customer-managed keys** give you control over the keys, including the ability to bring your own keys (BYOK) or to generate new ones.
 
-- **Service-managed keys in ccustomer-controlledhardware** enables you to manage keys in your proprietary repository that is outside of Microsoft’s control. This is called Host Your Own Key (HYOK). However, configuration is complex, and most Azure services don’t support this model.
+- **Service-managed keys in customer-controlled hardware** enables you to manage keys in your proprietary repository that is outside of Microsoft’s control. This is called Host Your Own Key (HYOK). However, configuration is complex, and most Azure services don’t support this model.
 
 ### Azure Disk Encryption
 
